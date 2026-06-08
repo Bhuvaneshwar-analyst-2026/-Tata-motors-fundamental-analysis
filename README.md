@@ -73,9 +73,10 @@ The study covers financial data from **2017–18 to 2020–21**, sourced entirel
 
 ## Files in This Repository
 
-| File | Description |
-|---|---|
-| `Tata_Motors_Corrected.docx` | Complete project report — Fundamental Analysis |
+| File | Description | View |
+|---|---|---|
+| `Tata_Motors_Corrected.docx` | Word document — full report | Download only |
+| `Tata_Motors_Corrected.pdf` | PDF version — full report | [Click to view](https://github.com/Bhuvaneshwar-analyst-2026/tata-motors-fundamental-analysis/raw/main/Tata_Motors_Corrected.pdf) |
 
 ---
 
